@@ -1,0 +1,7 @@
+---
+env: 'dev'
+port: 3000
+browserSyncPort: 4000
+staticPath: './public/'
+jsPath: './source/js/'
+viewsPath: './server/views/'
