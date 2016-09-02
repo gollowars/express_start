@@ -19,17 +19,6 @@
   },
   "globals": {
     "$": false,
-    "Rx": false,
-    "PIXI": false,
-    "dat": false,
-    "courseId": false,
-    "Logger": false,
-    "Howl": false,
-    "Howler": false,
-    "YT":false,
-    "Cookies": false,
-    "TWEEN": false,
-    "Modernizr": false,
-    "_": false,
+    "Modernizr": false
   }
 }
